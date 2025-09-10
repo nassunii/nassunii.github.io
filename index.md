@@ -13,9 +13,9 @@ image: /assets/yeseon.jpg
   </div>
 
   <div class="hero__text">
-    <h1>Hi! I'm Yeseon Hong.</h1>
+    <h1>Yeseon Hong</h1>
     <p>
-      I am a Bachelor of Science (B.S.) student at
+      Hi! I'm Yeseon Hong. I am a Bachelor of Science (B.S.) student at
       <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a> (since 2022).
       I am a member of the <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a> at Sogang University, advised by
       <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Hwaran Lee</a>.
