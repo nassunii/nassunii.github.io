@@ -21,10 +21,13 @@ image: /assets/yeseon.jpg
       <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Hwaran Lee</a>.
       My research interests are in <strong>human-level AI</strong>, including:
       (i) Large Language Models; (ii) LLM alignment; (iii) LLM security such as adversarial attacks and red teaming.
-    </p>
     <p style="margin-top:10px">
-      <a class="btn" href="https://www.linkedin.com/in/yeseon-hong-753200345/" target="_blank" rel="noopener">LinkedIn</a>
-      <a class="btn" href="https://github.com/nassunii" target="_blank" rel="noopener">GitHub</a>
+      <a class="btn" href="https://www.linkedin.com/in/yeseon-hong-753200345/" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/linkedin" alt="" aria-hidden="true" style="width:18px;height:18px;margin-right:8px;vertical-align:-3px">LinkedIn
+      </a>
+      <a class="btn" href="https://github.com/nassunii" target="_blank" rel="noopener">
+        <img src="https://cdn.simpleicons.org/github" alt="" aria-hidden="true" style="width:18px;height:18px;margin-right:8px;vertical-align:-3px">GitHub
+      </a>
     </p>
   </div>
 </section>
