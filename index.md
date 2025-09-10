@@ -9,7 +9,7 @@ image: /assets/yeseon.jpg
     <img class="avatar"
          src="{{ '/assets/yeseon.jpg' | relative_url }}"
          alt="Yeseon Hong profile photo"
-         width="190" height="190" loading="lazy" decoding="async" />
+         width="100" height="100" loading="lazy" decoding="async" />
   </div>
 
   <div class="hero__text">
