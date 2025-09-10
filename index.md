@@ -52,7 +52,7 @@ image: /assets/yeseon.jpg
   <h2>Publications & Preprints</h2>
   <ol>
     <li>
-      <strong>FCE</strong> — <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">arXiv:2407.12007</a>, accepted to NAACL Findings 2025.
+      <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">FCE</a> - accepted to NAACL Findings 2025.
     </li>
   </ol>
 
