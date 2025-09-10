@@ -33,15 +33,18 @@ image: /assets/yeseon.jpg
   </div>
 </section>
 
+
 <section id="news">
   <h2>News</h2>
-  <ul>
-    <li><strong>Sep 2025</strong> — Joined the <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a> (Sogang University), advised by <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Prof. Hwaran Lee</a>.</li>
-    <li><strong>May 2025</strong> — Serving as an ACL 2025 SRW reviewer.</li>
-    <li><strong>Jan 2025</strong> — <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">FCE</a> is accepted at NAACL Findings 2025.</li>
-    <li><strong>Mar 2024</strong> — Joined the <a href="https://www.elulab.kr/#/en" target="_blank" rel="noopener">ELU Lab</a> (Chung-Ang University), advised by <a href="https://www.elulab.kr/#/en/Bugeun/Kim" target="_blank" rel="noopener">Prof. Bugeun Kim</a>.</li>
-    <li><strong>Mar 2022</strong> — Started B.S. in AI at <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a>.</li>
-  </ul>
+  <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
+    <ul>
+      <li><strong>Sep 2025</strong> — Joined the <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a> (Sogang University), advised by <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Prof. Hwaran Lee</a>.</li>
+      <li><strong>May 2025</strong> — Serving as an ACL 2025 SRW reviewer.</li>
+      <li><strong>Jan 2025</strong> — <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">FCE</a> is accepted at NAACL Findings 2025.</li>
+      <li><strong>Mar 2024</strong> — Joined the <a href="https://www.elulab.kr/#/en" target="_blank" rel="noopener">ELU Lab</a> (Chung-Ang University), advised by <a href="https://www.elulab.kr/#/en/Bugeun/Kim" target="_blank" rel="noopener">Prof. Bugeun Kim</a>.</li>
+      <li><strong>Mar 2022</strong> — Started B.S. in AI at <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a>.</li>
+    </ul>
+  </div>
 </section>
 
 
