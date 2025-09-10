@@ -16,7 +16,7 @@ image: /assets/yeseon.jpg
 
   <!-- text second -->
   <div class="hero__text">
-    <div class="kicker" style="letter-spacing:.12em;text-transform:uppercase;font-size:12px;color:var(--muted);font-weight:800">Hi there</div>
+    <!-- <div class="kicker" style="letter-spacing:.12em;text-transform:uppercase;font-size:12px;color:var(--muted);font-weight:800">Hi there</div> -->
     <h1>Hi! I'm Yeseon Hong.</h1>
     <p>
       I am a Bachelor of Science (B.S.) student at
