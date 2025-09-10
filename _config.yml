@@ -1,10 +1,11 @@
-title: "홍예선 | nassunii"
-email: "hello@your-email.example"
-description: "AI 연구자 · Human–LLM Interaction · VLM Robustness · Intent Restoration"
+title: "Yeseon Hong"
+email: "ghddptjs@cau.ac.kr"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nassunii.github.io" # the base hostname & protocol
 twitter_username: ""
 github_username: "nassunii"
+linkedin_username: "yeseon-hong-753200345"
 markdown: kramdown
 kramdown:
   input: GFM
