@@ -64,8 +64,8 @@ image: /assets/yeseon.jpg
 <section id="teaching">
   <h2>Teaching Assistant (TA)</h2>
   <ul>
-    <li><strong>Pattern Recognition</strong> — Summer 2025.</li>
-    <li><strong>Heuristic Algorithms</strong> — Spring 2025.</li>
+    <li><strong>Pattern Recognition</strong> — Summer 2025</li>
+    <li><strong>Heuristic Algorithms</strong> — Spring 2025</li>
   </ul>
 </section>
 
