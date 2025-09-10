@@ -5,7 +5,17 @@ image: /assets/yeseon.jpg
 ---
 
 <section class="hero">
-  <div>
+  <!-- photo first -->
+  <div class="hero__img">
+    <img class="avatar"
+         src="{{ '/assets/yeseon.jpg' | relative_url }}"
+         alt="Yeseon Hong profile photo"
+         width="190" height="190"
+         loading="lazy" decoding="async" />
+  </div>
+
+  <!-- text second -->
+  <div class="hero__text">
     <div class="kicker" style="letter-spacing:.12em;text-transform:uppercase;font-size:12px;color:var(--muted);font-weight:800">Hi there</div>
     <h1>Hi! I'm Yeseon Hong.</h1>
     <p>
@@ -17,21 +27,13 @@ image: /assets/yeseon.jpg
       (i) Large Language Models; (ii) LLM alignment; (iii) LLM security such as adversarial attacks and red teaming.
     </p>
 
-    <!-- Social links -->
     <p style="margin-top:10px">
       <a class="btn" href="https://www.linkedin.com/in/yeseon-hong-753200345/" target="_blank" rel="noopener">LinkedIn</a>
       <a class="btn" href="https://github.com/nassunii" target="_blank" rel="noopener">GitHub</a>
     </p>
   </div>
-
-  <div style="display:flex;justify-content:center">
-    <img class="avatar"
-         src="{{ '/assets/yeseon.jpg' | relative_url }}"
-         alt="Yeseon Hong profile photo"
-         width="190" height="190"
-         loading="lazy" decoding="async" />
-  </div>
 </section>
+
 
 
 <section id="news">
