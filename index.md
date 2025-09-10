@@ -5,20 +5,28 @@ image: /assets/yeseon.jpg
 ---
 
 <section class="hero">
-  <!-- photo first -->
   <div class="hero__img">
     <img class="avatar"
          src="{{ '/assets/yeseon.jpg' | relative_url }}"
          alt="Yeseon Hong profile photo"
-         width="190" height="190"
-         loading="lazy" decoding="async" />
+         width="190" height="190" loading="lazy" decoding="async" />
   </div>
 
-<section class="hero"> 
-<div style="display:flex;justify-content:center"> <img class="avatar" src="{{ '/assets/yeseon.jpg' | relative_url }}" alt="Yeseon Hong profile photo" width="100" height="100" loading="lazy" decoding="async" /> 
+  <div class="hero__text">
+    <h1>Hi! I'm Yeseon Hong.</h1>
+    <p>
+      I am a Bachelor of Science (B.S.) student at
+      <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a> (since 2022).
+      I am a member of the <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a> at Sogang University, advised by
+      <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Hwaran Lee</a>.
+      My research interests are in <strong>human-level AI</strong>, including:
+      (i) Large Language Models; (ii) LLM alignment; (iii) LLM security such as adversarial attacks and red teaming.
+    </p>
+    <p style="margin-top:10px">
+      <a class="btn" href="https://www.linkedin.com/in/yeseon-hong-753200345/" target="_blank" rel="noopener">LinkedIn</a>
+      <a class="btn" href="https://github.com/nassunii" target="_blank" rel="noopener">GitHub</a>
+    </p>
   </div>
-  <div> 
-  <h1>Hi! I'm Yeseon Hong.</h1> <p> I am a Bachelor of Science (B.S.) student at <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a> (since 2022). I am a member of the <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a> at Sogang University, advised by <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Hwaran Lee</a>. My research interests are in <strong>human-level AI</strong>, including: (i) Large Language Models; (ii) LLM alignment; (iii) LLM security such as adversarial attacks and red teaming. </p> Social links <p style="margin-top:10px"> <a class="btn" href="https://www.linkedin.com/in/yeseon-hong-753200345/" target="_blank" rel="noopener">LinkedIn</a> <a class="btn" href="https://github.com/nassunii" target="_blank" rel="noopener">GitHub</a> </p> </div>  
 </section>
 
 
