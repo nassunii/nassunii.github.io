@@ -48,17 +48,24 @@ image: /assets/yeseon.jpg
 <section id="achievements">
   <h2>Publications & Preprints</h2>
   <ol>
-    
+    <li>
+      <strong>FCE</strong> — <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">arXiv:2407.12007</a>, accepted to NAACL Findings 2025.
+    </li>
   </ol>
 
-  <h2>Selected Projects & Datasets</h2>
+  <!-- <h2>Awards & Honors</h2>
   <ul>
-  </ul>
+  </ul> -->
+</section>
 
-  <h2>Awards & Honors</h2>
+<section id="teaching">
+  <h2>Teaching Assistant (TA)</h2>
   <ul>
+    <li><strong>Pattern Recognition</strong> — Summer 2025.</li>
+    <li><strong>Heuristic Algorithms</strong> — Spring 2025.</li>
   </ul>
 </section>
+
 
 <section id="education">
   <h2>Education</h2>
