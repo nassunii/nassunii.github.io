@@ -45,9 +45,10 @@ image: /assets/yeseon.jpg
 </section>
 
 
+
 <section id="contact-me">
   <h2><span aria-hidden="true" style="margin-right:6px">💌</span>Contact</h2>
-  <p>ghddptjs [at] cau [dot] ac [dot] kr</p>     <p>ghddptjs [at] gmail [dot] com</p>
+  <p>ghddptjs [at] cau [dot] ac [dot] kr</p>   
 </section>
 
 
