@@ -10,7 +10,7 @@ image: /assets/yeseon.jpg
     <img class="avatar"
      src="{{ '/assets/yeseon.jpg' | relative_url }}"
      alt="Yeseon Hong profile photo"
-     style="width:120px; height:auto; "
+     style="width:190px; height:auto; "
      loading="lazy" decoding="async" />
   </div>
 
