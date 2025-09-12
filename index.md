@@ -82,7 +82,7 @@ image: /assets/yeseon.jpg
   <h2>Publications & Preprints</h2>
   <ol>
     <li>
-      <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">People will agree what I think: Investigating LLM's False Consensus Effect</a> - Junhyuk Kim, <strong>Yeseon Hong<strong>, Bugeun Kim (NAACL'25 findings).
+      <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">People will agree what I think: Investigating LLM's False Consensus Effect</a> - Junhyuk Kim, <strong>Yeseon Hong</strong>, Bugeun Kim (NAACL'25 findings).
     </li>
   </ol>
 
