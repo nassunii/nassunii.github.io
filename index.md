@@ -8,9 +8,10 @@ image: /assets/yeseon.jpg
 <section class="hero">
   <div class="hero__img">
     <img class="avatar"
-         src="{{ '/assets/yeseon.jpg' | relative_url }}"
-         alt="Yeseon Hong profile photo"
-         width="50" height="50" loading="lazy" decoding="async" />
+     src="{{ '/assets/yeseon.jpg' | relative_url }}"
+     alt="Yeseon Hong profile photo"
+     style="width:120px; height:auto; "
+     loading="lazy" decoding="async" />
   </div>
 
   <div class="hero__text">
