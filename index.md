@@ -78,7 +78,7 @@ image: /assets/yeseon.jpg
   <h2>News</h2>
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
-      <li><strong>Mar 2026</strong> — Started my M.S. in Artificial Intelligence at 
+      <li><strong>Mar 2026</strong> — Started M.S. in Artificial Intelligence at 
     <a href="https://www.sogang.ac.kr/" target="_blank">Sogang University</a>.</li>
         
       <li><strong>Sep 2025</strong> — Joined the 
