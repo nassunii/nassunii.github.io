@@ -78,6 +78,9 @@ image: /assets/yeseon.jpg
   <h2>News</h2>
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
+      <li><strong>Mar 2026</strong> — Started my M.S. in Artificial Intelligence at 
+    <a href="https://www.sogang.ac.kr/" target="_blank">Sogang University</a>.</li>
+        
       <li><strong>Sep 2025</strong> — Joined the 
         <a href="https://hailolab-sogang.github.io/" target="_blank">HAILO Lab</a>, 
         advised by <a href="https://hwaranlee.github.io/" target="_blank">Prof. Hwaran Lee</a>.
@@ -98,7 +101,7 @@ image: /assets/yeseon.jpg
         Prof. Bugeun Kim</a>.
       </li>
 
-      <li><strong>Mar 2022</strong> — Started B.S. in AI at
+      <li><strong>Mar 2022</strong> — Started B.S. in Artificial Intelligence at
         <a href="https://www.cau.ac.kr/index.do" target="_blank">
         Chung-Ang University</a>.
       </li>
@@ -136,7 +139,7 @@ image: /assets/yeseon.jpg
 <section id="education">
   <h2>Education</h2>
   <ul>
-    <li><strong>M.S. in Artificial Intelligence</strong>, Sogang University, 2025–Present</li>
-    <li><strong>B.S. in Artificial Intelligence</strong>, Chung-Ang University, 2022–2025</li>
+    <li><strong>M.S. in Artificial Intelligence</strong>, Sogang University, 2026–Present</li>
+    <li><strong>B.S. in Artificial Intelligence</strong>, Chung-Ang University, 2022–2026</li>
   </ul>
 </section>
