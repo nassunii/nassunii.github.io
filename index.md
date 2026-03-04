@@ -15,15 +15,18 @@ image: /assets/yeseon.jpg
   </div>
 
   <div class="hero__text">
-    <h1>Yeseon Hong</h1>
-    <p>
-      Hi! I'm Yeseon Hong. I am a Bachelor of Science (B.S.) student at
-      <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a> (since 2022).
-      I am a member of the <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a> at Sogang University, advised by
-      <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Hwaran Lee</a>.
-      My research interests are in <strong>human-level AI</strong>, including:
-      (i) Large Language Models; (ii) LLM alignment; (iii) LLM security such as adversarial attacks and red teaming.
-    </p>
+  <h1>Yeseon Hong</h1>
+  <p>
+    Hi! I'm Yeseon Hong. I am a Master's student in AI at
+    <a href="https://www.sogang.ac.kr/" target="_blank" rel="noopener">Sogang University</a>.
+    I received my B.S. in AI from
+    <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a>.
+    I am a member of the <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a> at Sogang University, advised by
+    <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Hwaran Lee</a>.
+    My research interests are in <strong>human-level AI</strong>, including:
+    (i) Large Language Models; (ii) LRM alignment; (iii) LLM security such as adversarial attacks and red teaming.
+  </p>
+</div>
     
   <p style="margin-top:10px;display:flex;gap:8px;flex-wrap:wrap">
     <a class="btn" href="https://www.linkedin.com/in/yeseon-hong-753200345/" target="_blank" rel="noopener"
