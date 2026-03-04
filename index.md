@@ -45,7 +45,7 @@ image: /assets/yeseon.jpg
       GitHub
     </a>
 
-   <a class="btn" href="/assets/CV.pdf" target="_blank" rel="noopener"
+   <a class="btn" href="/assets/CV_260304.pdf" target="_blank" rel="noopener"
      style="display:inline-flex;align-items:center;gap:8px">
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
     <path d="M10 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"/>
