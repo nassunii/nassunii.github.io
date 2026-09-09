@@ -66,30 +66,31 @@ image: /assets/yeseon.jpg
   <h2>News</h2>
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
+      <li><strong>Aug 2026</strong> —
+        <a href="" target="_blank" rel="noopener">
+          MATE: Diagnosing Empathy Calibration Failures in Multi-Turn Human–LLM Interaction
+        </a>
+        accepted at EMNLP (findings) 2026
+      </li>
       <li><strong>Mar 2026</strong> — Started M.S. in Artificial Intelligence at
         <a href="https://www.sogang.ac.kr/" target="_blank" rel="noopener">Sogang University</a>.
       </li>
-
       <li><strong>Sep 2025</strong> — Joined the
         <a href="https://hailolab-sogang.github.io/" target="_blank" rel="noopener">HAILO Lab</a>,
         advised by <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Prof. Hwaran Lee</a>.
       </li>
-
       <li><strong>May 2025</strong> — Serving as an ACL 2025 SRW reviewer.</li>
-
       <li><strong>Jan 2025</strong> —
         <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">
           People will agree what I think: Investigating LLM's False Consensus Effect
         </a>
-        accepted at NAACL Findings 2025.
+        accepted at NAACL (findings) 2025
       </li>
-
       <li><strong>Mar 2024</strong> — Joined the
         <a href="https://www.elulab.kr/#/en" target="_blank" rel="noopener">ELU Lab</a>,
         advised by
         <a href="https://www.elulab.kr/#/en/Bugeun/Kim" target="_blank" rel="noopener">Prof. Bugeun Kim</a>.
       </li>
-
       <li><strong>Mar 2022</strong> — Started B.S. in Artificial Intelligence at
         <a href="https://www.cau.ac.kr/index.do" target="_blank" rel="noopener">Chung-Ang University</a>.
       </li>
@@ -102,10 +103,16 @@ image: /assets/yeseon.jpg
   <h2>Publications & Preprints</h2>
   <ol>
     <li>
+      <a href="" target="_blank" rel="noopener">
+        MATE: Diagnosing Empathy Calibration Failures in Multi-Turn Human–LLM Interaction
+      </a>
+      — <strong>Yeseon Hong</strong>, Junhyuk Choi, Minju Kim, Bugeun Kim (EMNLP findings 2026)
+    </li>
+    <li>
       <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">
         People will agree what I think: Investigating LLM's False Consensus Effect
       </a>
-      — Junhyuk Kim, <strong>Yeseon Hong</strong>, Bugeun Kim (NAACL Findings 2025)
+      — Junhyuk Choi, <strong>Yeseon Hong</strong>, Bugeun Kim (NAACL findings 2025)
     </li>
   </ol>
 </section>
@@ -114,6 +121,7 @@ image: /assets/yeseon.jpg
 <section id="teaching">
   <h2>Teaching Assistant</h2>
   <ul>
+    <li><strong>AI Practice</strong> — Fall 2026</li>
     <li><strong>Pattern Recognition</strong> — Summer 2025</li>
     <li><strong>Heuristic Algorithms</strong> — Spring 2025</li>
   </ul>
