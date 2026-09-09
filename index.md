@@ -46,7 +46,7 @@ image: /assets/yeseon.jpg
         GitHub
       </a>
 
-      <a class="btn" href="{{ '/assets/CV_260304.pdf' | relative_url }}"
+      <a class="btn" href="{{ '/assets/CV_2609.pdf' | relative_url }}"
         target="_blank" rel="noopener">
         CV (PDF)
       </a>
