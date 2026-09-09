@@ -66,7 +66,7 @@ image: /assets/yeseon.jpg
   <h2>News</h2>
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
-      <li><strong>Aug 2026</strong> —
+      <li><strong>Aug 2026</strong> — 🎉
         <a href="" target="_blank" rel="noopener">
           MATE: Diagnosing Empathy Calibration Failures in Multi-Turn Human–LLM Interaction
         </a>
@@ -80,7 +80,7 @@ image: /assets/yeseon.jpg
         advised by <a href="https://hwaranlee.github.io/" target="_blank" rel="noopener">Prof. Hwaran Lee</a>.
       </li>
       <li><strong>May 2025</strong> — Serving as an ACL 2025 SRW reviewer.</li>
-      <li><strong>Jan 2025</strong> —
+      <li><strong>Jan 2025</strong> —  🎉 
         <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">
           People will agree what I think: Investigating LLM's False Consensus Effect
         </a>
