@@ -66,8 +66,14 @@ image: /assets/yeseon.jpg
   <h2>News</h2>
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
-      <li><strong>Aug 2026</strong> — 🎉
+      <li><strong>Nov 2026</strong> — 🎉
         <a href="" target="_blank" rel="noopener">
+          VITA: Visual In-image Text Analysis on Vision-Language Models
+        </a>
+        accepted at EACL (findings) 2027
+      </li>
+      <li><strong>Aug 2026</strong> — 🎉
+        <a href="https://arxiv.org/abs/2505.24658" target="_blank" rel="noopener">
           MATE: Diagnosing Empathy Calibration Failures in Multi-Turn Human–LLM Interaction
         </a>
         accepted at EMNLP (findings) 2026
@@ -104,6 +110,12 @@ image: /assets/yeseon.jpg
   <ol>
     <li>
       <a href="" target="_blank" rel="noopener">
+        VITA: Visual In-image Text Analysis on Vision-Language Models
+      </a>
+      — Junhyuk Choi*, <strong>Yeseon Hong*</strong>, Dayeon Seo, Jaeyoung Yang, Junhyuk Kim (EACL findings 2027)
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2505.24658" target="_blank" rel="noopener">
         MATE: Diagnosing Empathy Calibration Failures in Multi-Turn Human–LLM Interaction
       </a>
       — <strong>Yeseon Hong</strong>, Junhyuk Choi, Minju Kim, Bugeun Kim (EMNLP findings 2026)
