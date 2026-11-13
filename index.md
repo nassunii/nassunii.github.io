@@ -70,13 +70,13 @@ image: /assets/yeseon.jpg
         <a href="" target="_blank" rel="noopener">
           VITA: Visual In-image Text Analysis on Vision-Language Models
         </a>
-        accepted at EACL (findings) 2027
+        accepted at EACL '27 (findings)
       </li>
       <li><strong>Aug 2026</strong> — 🎉
         <a href="https://arxiv.org/abs/2505.24658" target="_blank" rel="noopener">
           MATE: Diagnosing Empathy Calibration Failures in Multi-Turn Human–LLM Interaction
         </a>
-        accepted at EMNLP (findings) 2026
+        accepted at EMNLP '26 (findings)
       </li>
       <li><strong>Mar 2026</strong> — Started M.S. in Artificial Intelligence at
         <a href="https://www.sogang.ac.kr/" target="_blank" rel="noopener">Sogang University</a>.
@@ -90,7 +90,7 @@ image: /assets/yeseon.jpg
         <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">
           People will agree what I think: Investigating LLM's False Consensus Effect
         </a>
-        accepted at NAACL (findings) 2025
+        accepted at NAACL '25 (findings)
       </li>
       <li><strong>Mar 2024</strong> — Joined the
         <a href="https://www.elulab.kr/#/en" target="_blank" rel="noopener">ELU Lab</a>,
@@ -112,19 +112,19 @@ image: /assets/yeseon.jpg
       <a href="" target="_blank" rel="noopener">
         VITA: Visual In-image Text Analysis on Vision-Language Models
       </a>
-      — Junhyuk Choi*, <strong>Yeseon Hong*</strong>, Dayeon Seo, Jaeyoung Yang, Junhyuk Kim (EACL findings 2027)
+      — Junhyuk Choi*, <strong>Yeseon Hong*</strong>, Dayeon Seo, Jaeyoung Yang, Junhyuk Kim (EACL '27 findings)
     </li>
     <li>
       <a href="https://arxiv.org/abs/2505.24658" target="_blank" rel="noopener">
         MATE: Diagnosing Empathy Calibration Failures in Multi-Turn Human–LLM Interaction
       </a>
-      — <strong>Yeseon Hong</strong>, Junhyuk Choi, Minju Kim, Bugeun Kim (EMNLP findings 2026)
+      — <strong>Yeseon Hong</strong>, Junhyuk Choi, Minju Kim, Bugeun Kim (EMNLP '26 findings)
     </li>
     <li>
       <a href="https://arxiv.org/abs/2407.12007" target="_blank" rel="noopener">
         People will agree what I think: Investigating LLM's False Consensus Effect
       </a>
-      — Junhyuk Choi, <strong>Yeseon Hong</strong>, Bugeun Kim (NAACL findings 2025)
+      — Junhyuk Choi, <strong>Yeseon Hong</strong>, Bugeun Kim (NAACL '25 findings)
     </li>
   </ol>
 </section>
